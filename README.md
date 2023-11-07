@@ -5,6 +5,8 @@
 
 ### Ironhack ###
 
+Everything is in the notebook file, sorry!
+
 ### Overview ###
 
 The goal of this project is to use Mongo, folium and foursquare API to choose the ideal location for a video game company to locate its office, based on a set of criteria set by the staff. Taking these criteria into account, I have chosen the offices of a tech company called Busuu, in Madrid, for our company to relocate close to.
