@@ -56,19 +56,19 @@ These were the 3 'best' taking these criteria into account:
 
 As you can see, it has;
 
-- 10 bars within 150m.
+- 10 bars within 150m (Beer Icon)
 
-- 5 schools within 500m.
+- 5 schools within 500m (Book Icon, Green)
 
-- Relocating here would put us close to a successful startup like Busuu and other similar companies.
+- Relocating here would put us close to a successful startup like Busuu and other similar companies (Briefcase Icon)
 
-- It has a Starbucks within 300m.
+- It has a Starbucks within 300m (Coffee Icon)
 
-- Vegan restaurant within 400m.
+- Vegan restaurant within 400m (Leaf Icon, Dark Green)
 
-- Wizink Center, where Real Madrid play Basketball, is 1km (15 mins walk) away.
+- Wizink Center, where Real Madrid play Basketball, is 1km (15 mins walk) away (Blue Icon)
 
-- Dog saloon within 300m.
+- Dog saloon within 300m (Paw Icon)
 
 Not seen in the map: Barajas airport, 12km away, and other companies such as eRepublik, a videogame design company, 20mins walk away. 
 
